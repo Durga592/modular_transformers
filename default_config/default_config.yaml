@@ -1,0 +1,16 @@
+model:
+  src_vocab_size: 10000
+  tgt_vocab_size: 10000
+  N: 6
+  d_model: 512
+  d_ff: 2048
+  h: 8
+  dropout: 0.1
+
+training:
+  batch_size: 32
+  accum_iter: 1
+  epochs: 10
+  warmup: 3000
+  base_lr: 1.0
+  label_smoothing: 0.1
