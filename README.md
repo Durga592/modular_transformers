@@ -1742,13 +1742,13 @@ Epoch Step:    881 | Accumulation Step:  89 | Loss:   0.15 | Tokens / Sec:  1054
 ### 🖥️ Inference & Decoding Visualizations
 
 #### 10 Epochs Sample Output
-![alt text](<../../Screenshot 2026-08-30 at 11.09.43 AM.png>)
+![alt text](<assets/Screenshot 2026-08-30 at 11.09.43 AM.png>)
 
 #### 20 Epochs Sample Output
-![alt text](<../../Screenshot 2026-08-30 at 11.08.44 AM.png>)
+![alt text](<assets/Screenshot 2026-08-30 at 11.08.44 AM.png>)
 
 #### 30 Epochs Sample Output
-![alt text](<../../Screenshot 2026-08-30 at 11.07.29 AM.png>)
+![alt text](<assets/Screenshot 2026-08-30 at 11.09.43 AM.png>)
 
 ---
 
